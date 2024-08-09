@@ -20,7 +20,14 @@ Features:
 
 ## Research Topic
 
-In this research, various 3D models of metal hydride hydrogen storage reactors with different internal helical coil parameters were developed and solved by Computational Fluid Dynamics (CFD). Different helical coil parameters affect the hydrogen absorption time. Therefore, this study predicts the hydrogen absorption time of a metal hydride hydrogen reactor given different helical coil parameters.
+In this research, various 3D models of metal hydride hydrogen storage reactors with different internal helical coil parameters were developed and solved by Computational Fluid Dynamics (CFD). Different helical coil parameters affect the hydrogen absorption time. Therefore, this study firstly collects data from CFD, then predicts the hydrogen absorption time of a metal hydride hydrogen reactor given different helical coil parameters.
+![image](https://github.com/user-attachments/assets/38f6a6e4-ee91-443c-b128-8562cb241bb6)
+
+
+## Overall Methodology
+
+![image](https://github.com/user-attachments/assets/430ea1b6-a64d-4337-9905-333f6625f856)
+
 
 The raw data file is located at [/Machine_Learning_with_CFD/dataset.csv](https://github.com/siwoo-jung/Machine_Learning_with_CFD/blob/main/dataset.csv)
 
