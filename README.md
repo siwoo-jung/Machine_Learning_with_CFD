@@ -1,7 +1,7 @@
 # Machine_Learning_with_CFD
 A part of research during Master of Philosophy candidature in University of New South Wales. 
 
-Refer to [thesis](https://github.com/siwoo-jung/Machine_Learning_with_CFD/blob/main/thesis.pdf) for details. **Note that this is a draft and currently awaiting the supervisor's approval for the final submission, which will be submitted to the University of New South Wales by 9th of September 2024.**
+Refer to Chapter 4 from [thesis](https://github.com/siwoo-jung/Machine_Learning_with_CFD/blob/main/thesis.pdf) for details. **Note that this is a draft and currently awaiting the supervisor's approval for the final submission, which will be submitted to the University of New South Wales by 9th of September 2024.**
 
 Features:
   - Data visualisation & pre-processing
