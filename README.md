@@ -1,7 +1,14 @@
 # Machine_Learning_with_CFD
-A part of research during Master of Philosophy candidature in University of New South Wales. 
 
-Refer to Chapter 4 from [thesis](https://github.com/siwoo-jung/Machine_Learning_with_CFD/blob/main/thesis.pdf) for details. **Note that this is a draft and currently awaiting the supervisor's approval for the final submission, which will be submitted to the University of New South Wales by 9th of September 2024.**
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+	![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+A part of research during Master of Philosophy candidature in University of New South Wales. 
+Refer to Chapter 4 from [thesis](https://doi.org/10.26190/unsworks/30911) for details. 
 
 Features:
   - Data visualisation & pre-processing
@@ -23,6 +30,7 @@ Features:
 ## Research Topic
 
 In this research, various 3D models of metal hydride hydrogen storage reactors with different internal helical coil parameters were developed and solved by Computational Fluid Dynamics (CFD). Different helical coil parameters affect the hydrogen absorption time. Therefore, this study firstly collects data from CFD, then predicts the hydrogen absorption time of a metal hydride hydrogen reactor given different helical coil parameters.
+
 ![image](https://github.com/user-attachments/assets/38f6a6e4-ee91-443c-b128-8562cb241bb6)
 
 
